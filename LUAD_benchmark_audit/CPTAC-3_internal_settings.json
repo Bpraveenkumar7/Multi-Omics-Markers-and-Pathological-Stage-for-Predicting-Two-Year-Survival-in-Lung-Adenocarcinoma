@@ -1,0 +1,202 @@
+[
+  {
+    "model": "Molecular RF",
+    "fold": 1,
+    "model__max_features": "sqrt"
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 2,
+    "model__max_features": "sqrt"
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 3,
+    "model__max_features": 0.5
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 4,
+    "model__max_features": 0.5
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 5,
+    "model__max_features": "sqrt"
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 6,
+    "model__max_features": "sqrt"
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 7,
+    "model__max_features": "sqrt"
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 8,
+    "model__max_features": "sqrt"
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 9,
+    "model__max_features": 0.5
+  },
+  {
+    "model": "Molecular RF",
+    "fold": 10,
+    "model__max_features": "sqrt"
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 1,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 2,
+    "model__C": 0.1
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 3,
+    "model__C": 0.1
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 4,
+    "model__C": 0.1
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 5,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 6,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 7,
+    "model__C": 10.0
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 8,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 9,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage + molecular ridge",
+    "fold": 10,
+    "model__C": 0.1
+  },
+  {
+    "model": "Stage alone",
+    "fold": 1,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 2,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 3,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 4,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 5,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 6,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 7,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 8,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 9,
+    "model__C": 0.01
+  },
+  {
+    "model": "Stage alone",
+    "fold": 10,
+    "model__C": 0.01
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 1,
+    "model__C": 0.01
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 2,
+    "model__C": 0.1
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 3,
+    "model__C": 0.1
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 4,
+    "model__C": 1.0
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 5,
+    "model__C": 0.01
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 6,
+    "model__C": 0.01
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 7,
+    "model__C": 10.0
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 8,
+    "model__C": 0.01
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 9,
+    "model__C": 0.1
+  },
+  {
+    "model": "Molecular ridge",
+    "fold": 10,
+    "model__C": 0.01
+  }
+]

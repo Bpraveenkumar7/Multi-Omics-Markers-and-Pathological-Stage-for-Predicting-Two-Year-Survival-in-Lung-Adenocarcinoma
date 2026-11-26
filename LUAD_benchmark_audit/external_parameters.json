@@ -1,0 +1,14 @@
+{
+  "Molecular RF": {
+    "model__max_features": "sqrt"
+  },
+  "Stage alone": {
+    "model__C": 0.01
+  },
+  "Molecular ridge": {
+    "model__C": 0.01
+  },
+  "Stage + molecular ridge": {
+    "model__C": 0.1
+  }
+}
